@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    border: 1px solid red;
+}
+
+body {
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: #e9547b;
+    margin-bottom: 60px;
+}
+
+.sottotitolo {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.blocconomi {
+    width: 26%;
+    height: 100px;
+    float: left;
+    margin-right: 70px;
+    background-color: red;
+}
